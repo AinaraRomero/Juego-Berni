@@ -1,0 +1,5 @@
+&arrastrar_soltar=7
+&elige_respuesta_correcta=7
+&contrareloj=0
+&encontrar_parejas=5
+&

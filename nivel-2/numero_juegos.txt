@@ -1,0 +1,4 @@
+&arrastrar_soltar=4
+&elige_respuesta_correcta=5
+&contrareloj=2
+&encontrar_parejas=4
